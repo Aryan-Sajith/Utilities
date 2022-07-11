@@ -21,3 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/out/production/Utilities/.idea/.gitignore
+/out/production/Utilities/.gitignore
+/out/production/Utilities/.idea/misc.xml
+/out/production/Utilities/.idea/modules.xml
+/out/production/Utilities/README.md
+/out/production/Utilities/.idea/Utilities.iml
+/out/production/Utilities/.idea/vcs.xml
