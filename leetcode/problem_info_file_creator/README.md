@@ -6,4 +6,4 @@ displays the problem name, difficulty, and content format from
 LeetCode's website. It's made for Safari because I'm on
 a macbook right now.</h4>
 
-<img src="https://w7.pngwing.com/pngs/666/702/png-transparent-text-speech-balloon-comic-book-comics-cool-miscellaneous-logo-sticker.png">
+<img src="https://www.nicepng.com/png/detail/832-8326555_folders-clipart-file-folder-folder-clip-art.png">
